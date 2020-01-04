@@ -79,7 +79,7 @@ Depuis 1986, NWC dirigé par Jon Van Caneghem a créé l'univers de Might & Magi
 
 Mais commençons par le commencement et parlons d'abord du père de la saga : Jon Van Caneghem
 
-#Jon Van Caneghem
+# Jon Van Caneghem
 
 Jon Van Caneghem (JVC) est un chef de projet, designer et producteur de jeux vidéo américain qui a créé New World Computing (NWC) en 1983. Le 1er titre sur lequel il fait travailler la société est Might and Magic 1 en 1986. Il est également à l'origine de King's Bounty en 1990, jeu qui servira de base à la création de notre bien-aimé « Heroes of Might and Magic ».
 En 1996, JVC vend NWC à 3DO, mais reste président de la société jusqu'en 2003. Il a admis qu'il ne voulait pas s'occuper des aspects financiers de sa société, mais continuer à créer des jeux et faire vivre l'univers de M&M et c'est pour cela qu'il a préféré vendre NWC. La seconde raison étant que les coûts de production des jeux devenaient de plus en plus colossaux et que NWC seul, ne pourrait plus travailler sans aide. Enfin, la dernière raison étant que JVC a toujours rêvé de créer un Heroes Online et que 3DO, avec son MMO Meridian 59, avait les moyens de l'y aider.
