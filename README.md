@@ -46,7 +46,8 @@ Univers originel :
  • Heroes of Might and Magic IV (2002)
  • Heroes of Might and Magic IV: The Gathering Storm (2002) - AXEOTH
  • Heroes of Might and Magic IV: Winds of War (2003) - AXEOTH
-Spin-offs officiels :
+ 
+## Spin-offs officiels :
 • Arcomage (1999–2000)
  Arcomage était tout d'abord un mini-jeu présent dans MM7 puis dans MM8 avant d'être publié en version standalone.
 • Legends of Might and Magic (2001)
@@ -54,6 +55,7 @@ Spin-offs officiels :
 Spin-offs non-officiels :
 Might and Magic Mobile (2004) - ERATHIA
 Might and Magic Mobile II (2007) - ERATHIA
+
 
 Ce sont des jeux de rôles (à la Zelda) pour téléphones portables développés par Gameloft sous l'égide d'Ubisoft. Ce sont les derniers jeux se déroulant dans l'univers originel après qu'Ubisoft ait acquis la licence M&M.
 Univers - Ardon :
@@ -70,11 +72,15 @@ Univers - Ashan :
  • Heroes of Might and Magic V: Tribes of the East (2007)
  • Dark Messiah of Might and Magic (2006)
  • Heroes Kingdoms (2009)
+
 Ubisoft a également décidé de faire de la licence M&M une marque « parapluie » qui comprendra l'ensemble des futurs jeux de la saga. Might and Magic : Clash of Heroes est le premier jeu estampillé ainsi.
 En août 2011, lors de la Gamescon à Cologne, Ubisoft annonce qu'ils sont en train de développer Might and Magic : Heroes VI avec la société Black Hole Entertainement, une société hongroise qui est réputé pour avoir travaillé sur les derniers jeux de la licence Warhammer (Mark of Chaos et Battle Marsh).
 Depuis 1986, NWC dirigé par Jon Van Caneghem a créé l'univers de Might & Magic, un univers mêlant fantasy et science-fiction. Cette part de sci-fi n'est jamais apparu dans la saga des HoMM, hormis une tentative avortée avec la Forge (mais j'y reviendrais plus tard).
+
 Mais commençons par le commencement et parlons d'abord du père de la saga : Jon Van Caneghem
-Jon Van Caneghem
+
+#Jon Van Caneghem
+
 Jon Van Caneghem (JVC) est un chef de projet, designer et producteur de jeux vidéo américain qui a créé New World Computing (NWC) en 1983. Le 1er titre sur lequel il fait travailler la société est Might and Magic 1 en 1986. Il est également à l'origine de King's Bounty en 1990, jeu qui servira de base à la création de notre bien-aimé « Heroes of Might and Magic ».
 En 1996, JVC vend NWC à 3DO, mais reste président de la société jusqu'en 2003. Il a admis qu'il ne voulait pas s'occuper des aspects financiers de sa société, mais continuer à créer des jeux et faire vivre l'univers de M&M et c'est pour cela qu'il a préféré vendre NWC. La seconde raison étant que les coûts de production des jeux devenaient de plus en plus colossaux et que NWC seul, ne pourrait plus travailler sans aide. Enfin, la dernière raison étant que JVC a toujours rêvé de créer un Heroes Online et que 3DO, avec son MMO Meridian 59, avait les moyens de l'y aider.
 En 2003, lorsque 3DO, en pleine banqueroute réduit les équipes de NWC, JVC est parmi les premiers à partir. Le reste de l'histoire est simple, afin de rattraper son déficit, 3DO pousse le restant des salariés de NWC a sortir un Heroes 4 inachevé et puis 2 add-ons à la hâte, mais rien n'y fera. 3DO bradera la licence M&M (on parle de 1.3 millions de $, en sachant qu'ils avaient racheté la même licence pour 13 millions à JVC en 1996). Ensuite, 3DO disparaitra, entrainant avec elle NWC.
@@ -86,29 +92,41 @@ Autres membres notables de NWC :
 Gregory Fulton était le designer de Heroes 3 et de H3 AB. C'est lui et JVC qui étaient à l'origine de la création de la Forge, un château basé sur les éléments de sci-fi de la saga M&M. Après avoir reçu des menaces de mort, il fait retirer la Forge et quelque temps après la publication de H3AB, il quittera NWC. C'est JVC qui reprendra son poste pour H3-SoD.
 Gus Smedstad était le programmeur de l'IA de combat dans H3. Après le départ de Greg Fulton, c'est lui qui s'est retrouvé propulsé au poste de designer pour Heroes 4. Inexpérimenté et en conflit avec JVC, il s'est démené pour conserver le train sur les rails, mais 3DO réduisant les effectifs de NWC au fur et à mesure du développement, on connait le résultat final.
 Might & Magic : « L'ancien âge »
+
 A l'origine de l'univers de M&M, il y avait des êtres qui s'appelaient les Anciens - personne ne sait à quoi ils ressemblaient exactement. Ces Anciens ont semé plusieurs microcosmes à travers l'univers et chacun de ces microcosmes était une biosphère qui abritait la vie. Les microcosmes qui ont abrité les univers des 5 premiers jeux M&M sont des mondes plats … personne ne sait pourquoi
+
 Les Anciens sont entrés en guerre contre une race démoniaque, les Kreegans. Durant cette guerre, les Anciens ont perdu leur influence sur la plupart des mondes qu'ils ont créés - et tous ces mondes non-contrôlés sont devenu l'univers des jeux M&M.
 La plupart de ces mondes avaient un « gardien », chargé de déplacer ces mondes au travers de la galaxie, en un endroit choisi par les Anciens. Suite au conflit avec les Kreegans, l'un des gardiens, Sheltem, en charge du monde de Terra est devenu fou. Terra étant l'un des mondes les plus importants aux yeux des Anciens, ils décidèrent d'y envoyer Corak - Corak est-il un lui-même un Ancien ? ou bien un autre Gardien ? Personne ne le sait vraiment.
+
 Corak parvint à capturer Sheltem, mais lors de son transfert vers les Anciens, Sheltem s'échappe et devient incontrôlable. Corak reprend sa traque et c'est ainsi que début Might and Magic.
 Might and Magic Book 1 : Secrets of the Inner Sanctum
 Sheltem s'abrite dans le monde de VARN (Vehicular Astropod Research Nacelle). Il tue le Roi Alamar qui gouvernait ce monde et prend sa place. Le nouveau Alamar/Sheltem engage un groupe d'aventuriers (le joueur) afin qu'ils découvrent le secret du Sanctuaire Intérieur de VARN.
+
 Les aventuriers découvrent qui est réellement Sheltem, mais celui-ci s'enfuit par un portail magique avant que les aventuriers ne puissent le confronter.
-Might and Magic 2 : Gates to Another World.
+
+# Might and Magic 2 : Gates to Another World.
 Sheltem est arrive sur le monde de CRON (Central Research Observational Nacelle) après sa fuite. En tant que Gardien, Sheltem dévie le monde de CRON vers son soleil. Les aventuriers parviennent à le rattraper, mais sont confrontés à un dilemme : éliminer Sheltem ou sauver CRON. Alors que les aventuriers sauvent CRON de la catastrophe, Sheltem s'enfuit à nouveau.
 Might and Magic 3: Isles of Terra
 Sheltem s'est enfuit sur Terra, là où tout a commencé. Les aventuriers découvrent toute la vérité à propos de Sheltem et le mettent en déroute, mais Sheltem s'enfuit à nouveau à bord d'une navette spatiale. Corak se lance à sa poursuite dans une seconde navette et les 8 aventuriers embarquent à bord d'une autre navette.
 Sheltem arrive sur un autre monde, XEEN (Xylonite Experimental Environment Nacelle). La navette de Corak s'écrase sur Xeen alors que la navette des aventuriers n'arrivera jamais.
+
 Might and Magic 4: Clouds of Xeen
+
 Un nouveau groupe d'aventuriers se forme sur XEEN. Ils ont tous eu la vision d'un seigneur mort-vivant qui s'appelait Lord Xeen, vivant dans les nuages de XEEN. Le groupe décide de le détruire.
 Lorsque Lord Xeen est vaincu, Sheltem apparait et leur dit que bien qu'ils aient vaincu son lieutenant, il règnera toujours sur la face cachée de XEEN
+
 Swords of Xeen (Ce jeu a été créé par des fans, mais publié par 3DO)
 Après que Lord Xeen a été vaincu, le portail d'où il est venu apparait et les aventuriers le traversent pour découvrir un monde chaotique. Les aventuriers devront libérer ce monde d'un dieu devenu fou.
+
 Might and Magic 5: The Darkside of Xeen
+
 Sheltem a repris l'apparence d'Alamar et continue de faire deriver des planètes vers leur soleil. Le Pharaon Dragon invoque un groupe d'aventuriers et leur demande de rétablir la course des planètes. Durant leurs aventures, ils découvrent la nacelle de Corak ainsi qu'un objet appelé « Boite des Âmes ».
 Les aventuriers doivent enfermer l'essence de Corak dans cette boite et l'amener à Sheltem, car c'est le seul moyen de l'approcher sans éveiller ses soupçons. Lorsqu'ils arrivent à Sheltem, ils libèrent Corak et les 2 êtres s'affrontent.
 Au cours de ses voyages, Sheltem est devenu plus puissant et prend le dessus sur Corak, mais celui-ci enclenche son système d'auto-destruction et aggripe Sheltem. L'explosion les détruit tous deux. C'est ainsi que ce finissent les premiers âges de Might and Magic.
+
 A partir de là, l'histoire se déroulera sur le monde d'Enroth (parfois appelé COLONY) jusqu'à Might and Magic IX.
 Might and Magic VI: The Mandate of Heaven
+
 L'histoire de MM6 débute longtemps après Heroes 2. Roland Ironfist est le roi d'Enroth. Lors d'un voyage sur le continent voisin, Antagarich. il rencontre le Roi Gryphonheart, roi d'Erathia, et sa fille Catherine, dont il tombe amoureux. Ils se marièrent et Catherine accompagna son mari à Enroth. Ils eurent un enfant, Nicolaï. Quelques années plus tard, Gryphonheart mourut et Catherine retourna vers Erathia pour assister aux funérailles de son père.
 La guerre entre les Anciens et les Kreegans fait rage, conscients de l'intérêt des Anciens envers les différents mondes qu'ils ont créés, les Kreegans décident d'attaquer et de conquérir ces mondes. C'était désormais le tour d'Enroth de subir les attaques des Kreegans. Un nid (vaisseau) Kreegan atteri dans le nord d'Enroth et Roland dirigea une armée pour détruire cette invasion, mais il fut trahi par un magicien de l'air, Sulman. L'armée de Roland fut attaquée par une immense armée Kreegan - Roland, Tanir et Sir Ragnar furent capturés, le reste des armée d'Enroth furent décimées.
 Le roi des Kreegans, Xenofex, établit un ordre, le Temple de Baa, afin de renverser le pouvoir en place. Enroth n'ayant plus de roi et Nicolaï étant trop jeune et avec l'influence du Temple de Baa, le peuple d'Enroth commence à croire que la dynastie Ironfist a perdu le le "mandat céleste" (le droit divin de régner sur Enroth). Stillwater, un petit village est attaqué par les Kreegans, mais 4 aventuriers défendent courageusement le village.
