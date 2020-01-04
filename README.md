@@ -1,20 +1,18 @@
 # HoMM
 
-[FR] On vous dit tout sur Might and Magic ou presque
 En cette nouvelles année et décennie 2020, j'ai finallement rejoints la communauté Archangel Castel après plusieurs années à naviguer seul dans cet univers pleins de magie, cette fois faites attention on parle pas que de magie blanche, il est questions de créatures de héros et de books of shadows
+
 Réfèrence de cet article
+
 https://www.archangelcastle.com/acforum/viewtopic.php?f=69&t=8397
+
 Cet article est un copié collé pour l'instant du forum et ça fait donc 33 ans que l'aventure virtuelle a commencé et c'est donc l'occasion de faire un retour sur l'histoire cette saga.
 Si vous avez trouvé unlisted c'est évidemment fait exprès car je dois le retravailler
-
-
 
 Pour la petite histoire, la license est partagée essentiellement entre 2 types de jeux :
 * les jeux de rôles Might & Magic
 * les jeux de stratégie en tour par tour : Heroes of Might & Magic
 Il y a bien évidemment eu d'autres jeux développés sous la licence M&M (spins-offs) qui ont rencontré des succès divers. Voici dans l'ordre chronologique (selon l'histoire de l'univers de M&M) les jeux de la saga avec le nom du monde dans lequel ils se déroulent :
-
-
 
 Univers originel :
 • Heroes Chronicles: Warlords of the Wasteland (2000) - (ERATHIA)
