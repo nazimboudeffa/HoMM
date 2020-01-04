@@ -6,8 +6,8 @@ Réfèrence de cet article
 
 https://www.archangelcastle.com/acforum/viewtopic.php?f=69&t=8397
 
-Cet article est un copié collé pour l'instant du forum et ça fait donc 33 ans que l'aventure virtuelle a commencé et c'est donc l'occasion de faire un retour sur l'histoire cette saga.
-Si vous avez trouvé unlisted c'est évidemment fait exprès car je dois le retravailler
+Cet article est un copié collé pour l'instant du forum et ça fait donc 33 ans que l'aventure virtuelle a commencé et c'est donc l'occasion de faire un retour sur l'histoire de cette saga.
+Si vous avez trouvé unlisted c'est évidemment fait exprès car je dois le retravailler et du coup on l'a mit sur GitHub pour que ce soit fait en groupe
 
 Pour la petite histoire, la license est partagée essentiellement entre 2 types de jeux :
 * les jeux de rôles Might & Magic
