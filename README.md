@@ -15,35 +15,37 @@ Pour la petite histoire, la license est partagée essentiellement entre 2 types 
 Il y a bien évidemment eu d'autres jeux développés sous la licence M&M (spins-offs) qui ont rencontré des succès divers. Voici dans l'ordre chronologique (selon l'histoire de l'univers de M&M) les jeux de la saga avec le nom du monde dans lequel ils se déroulent :
 
 Univers originel :
-• Heroes Chronicles: Warlords of the Wasteland (2000) - (ERATHIA)
- • Heroes Chronicles: Conquest of the Underworld (2000) - (ERATHIA)
- • Heroes Chronicles: Revolt of the Beastmasters (2001) - (ERATHIA)
- • Heroes Chronicles: Masters of the Elements (2000) - (ERATHIA)
- • Might and Magic Book One: The Secret of the Inner Sanctum - (VARN 4)
- • Might and Magic II: Gates to Another World (1988) - (CRON)
- • King's Bounty (1990) - (LES 4 CONTINENTS)
- • Might and Magic III: Isles of Terra (1991) - (TERRA)
- • Might and Magic IV: Clouds of Xeen (1992) - (XEEN)
- • Might and Magic V: Darkside of Xeen (1994) - (XEEN)
- • Might and Magic: Swords of Xeen (1995) - (XEEN)
- Il est à noter que ce jeu a été développé par des fans et non par NWC.
- • Heroes of Might and Magic: A Strategic Quest (1995) - (ENROTH)
- • Heroes of Might and Magic II: The Succession Wars (1996) - (ENROTH)
- • Heroes of Might and Magic II: The Price of Loyalty (1997) - (ENROTH)
- • Might and Magic VI : The Mandate of Heavens (1998) - (COLONY + ENROTH)
- • Heroes of Might and Magic III: The Shadow of Death (2000) - (ERATHIA)
- • Heroes Chronicles: The World Tree (2000) - (ERATHIA)
- • Heroes Chronicles: The Fiery Moon (2000) - (ERATHIA)
- • Heroes of Might and Magic III: The Restoration of Erathia (1999) - (ERATHIA)
- • Might and Magic VII: For Blood and Honor (1999) - (ERATHIA)
- • Heroes of Might and Magic III: Armageddon's Blade (2000) - (ERATHIA)
- • Might and Magic VIII: Day of the Destroyer (2000) - (JADAME)
- • Heroes Chronicles: Clash of the Dragons (2000) - (ERATHIA)
- • Heroes Chronicles: The Sword of Frost (2001) - (ERATHIA)
- • Might and Magic IX: Writ of Fate (2002) - AXEOTH
- • Heroes of Might and Magic IV (2002)
- • Heroes of Might and Magic IV: The Gathering Storm (2002) - AXEOTH
- • Heroes of Might and Magic IV: Winds of War (2003) - AXEOTH
+- Heroes Chronicles: Warlords of the Wasteland (2000) - (ERATHIA)
+- Heroes Chronicles: Conquest of the Underworld (2000) - (ERATHIA)
+- Heroes Chronicles: Revolt of the Beastmasters (2001) - (ERATHIA)
+- Heroes Chronicles: Masters of the Elements (2000) - (ERATHIA)
+- Might and Magic Book One: The Secret of the Inner Sanctum - (VARN 4)
+- Might and Magic II: Gates to Another World (1988) - (CRON)
+- King's Bounty (1990) - (LES 4 CONTINENTS)
+- Might and Magic III: Isles of Terra (1991) - (TERRA)
+- Might and Magic IV: Clouds of Xeen (1992) - (XEEN)
+- Might and Magic V: Darkside of Xeen (1994) - (XEEN)
+- Might and Magic: Swords of Xeen (1995) - (XEEN)
+ 
+Il est à noter que ce jeu a été développé par des fans et non par NWC.
+
+- Heroes of Might and Magic: A Strategic Quest (1995) - (ENROTH)
+- Heroes of Might and Magic II: The Succession Wars (1996) - (ENROTH)
+- Heroes of Might and Magic II: The Price of Loyalty (1997) - (ENROTH)
+- Might and Magic VI : The Mandate of Heavens (1998) - (COLONY + ENROTH)
+- Heroes of Might and Magic III: The Shadow of Death (2000) - (ERATHIA)
+- Heroes Chronicles: The World Tree (2000) - (ERATHIA)
+- Heroes Chronicles: The Fiery Moon (2000) - (ERATHIA)
+- Heroes of Might and Magic III: The Restoration of Erathia (1999) - (ERATHIA)
+- Might and Magic VII: For Blood and Honor (1999) - (ERATHIA)
+- Heroes of Might and Magic III: Armageddon's Blade (2000) - (ERATHIA)
+- Might and Magic VIII: Day of the Destroyer (2000) - (JADAME)
+- Heroes Chronicles: Clash of the Dragons (2000) - (ERATHIA)
+- Heroes Chronicles: The Sword of Frost (2001) - (ERATHIA)
+- Might and Magic IX: Writ of Fate (2002) - AXEOTH
+- Heroes of Might and Magic IV (2002)
+- Heroes of Might and Magic IV: The Gathering Storm (2002) - AXEOTH
+- Heroes of Might and Magic IV: Winds of War (2003) - AXEOTH
  
 ## Spin-offs officiels :
 • Arcomage (1999–2000)
