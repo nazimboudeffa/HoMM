@@ -1,4 +1,4 @@
-# Introduction
+# Préface
 
 En cette nouvelles année et décennie 2020, j'ai finallement rejoints la communauté Archangel Castel après plusieurs années à naviguer seul dans cet univers pleins de magie, cette fois faites attention on parle pas que de magie blanche, il est questions de créatures de héros et de books of shadows
 
